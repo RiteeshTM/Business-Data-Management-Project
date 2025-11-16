@@ -3,7 +3,7 @@ Data-driven demand forecasting and customer segmentation analysis for Sri Meenak
 
 # 🧮 Demand Forecasting and Customer Insights for Sri Meenakshi Screen Printing
 
-This project was developed as part of the **Business Data Management (BDM)** coursework at **Amrita Vishwa Vidyapeetham**.  
+This project was developed as part of the **Business Data Management (BDM)** coursework at **IIT MADRAS BS DEGREE PROGRAM**.  
 It applies data analytics techniques to optimize production planning, customer segmentation, and regional demand forecasting for *Sri Meenakshi Screen Printing*, a Thamboolam bag manufacturer based in Madurai, Tamil Nadu.
 
 ---
